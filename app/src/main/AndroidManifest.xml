@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="daniel.lop.io.marvelappstarter">
+    package="linnick.lop.io.marvelstudios">
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -16,10 +16,10 @@
         android:usesCleartextTraffic="true"
         tools:targetApi="m">
         <activity
-            android:name=".SplashActivity"
+            android:name="linnick.lop.io.marvelstudios.features.splashscreen.SplashActivity"
             android:exported="true" />
         <activity
-            android:name=".MainActivity"
+            android:name="linnick.lop.io.marvelstudios.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

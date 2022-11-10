@@ -1,8 +1,9 @@
-package daniel.lop.io.marvelappstarter
+package linnick.lop.io.marvelstudios.features.splashscreen
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import daniel.lop.io.marvelappstarter.databinding.ActivitySplashBinding
+import androidx.appcompat.app.AppCompatActivity
+import linnick.lop.io.marvelstudios.R
+import linnick.lop.io.marvelstudios.databinding.ActivitySplashBinding
 
 class SplashActivity : AppCompatActivity() {
 

@@ -1,8 +1,8 @@
-package daniel.lop.io.marvelappstarter
+package linnick.lop.io.marvelstudios
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import daniel.lop.io.marvelappstarter.databinding.ActivityMainBinding
+import androidx.appcompat.app.AppCompatActivity
+import linnick.lop.io.marvelstudios.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
